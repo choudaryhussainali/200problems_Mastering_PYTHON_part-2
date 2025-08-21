@@ -101,9 +101,5 @@ Be respectful, helpful, and constructive. The goal is to make learning Python en
 
 ## 🏅 Recognition
 
-All valid contributors will appear in GitHub’s Contributors section.
-Thank you for helping learners grow 🚀🐍
-
----
 All valid contributors will appear in GitHub’s **Contributors** section.
 Thank you for helping learners grow 🚀🐍
