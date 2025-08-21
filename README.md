@@ -1,10 +1,10 @@
 # 🐍 Mastering Python – 200 Exercises
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/mastering-python-exercises?color=blue)
-![GitHub contributors](https://img.shields.io/github/contributors/yourusername/mastering-python-exercises)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/mastering-python-exercises?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/mastering-python-exercises?style=social)
-![License](https://img.shields.io/github/license/yourusername/mastering-python-exercises?color=green)
+![GitHub repo size](https://img.shields.io/github/repo-size/choudaryhussainali/200problems_Mastering_PYTHON_part-2?color=blue)
+![GitHub contributors](https://img.shields.io/github/contributors/choudaryhussainali/200problems_Mastering_PYTHON_part-2)
+![GitHub stars](https://img.shields.io/github/stars/choudaryhussainali/200problems_Mastering_PYTHON_part-2)
+![GitHub forks](https://img.shields.io/github/forks/choudaryhussainali/200problems_Mastering_PYTHON_part-2)
+![License](https://img.shields.io/github/license/choudaryhussainali/200problems_Mastering_PYTHON_part-2?color=green)
 
 ---
 
@@ -66,26 +66,6 @@ It covers everything from **basics to advanced concepts**, helping you practice 
 
 ## 🤝 Contributing
 We welcome contributions! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file before submitting pull requests.
-
-## 📌 Ways to Contribute
-
-- Add Exercises: New problems for Learners
-- Improve Solutions: Alternate or optimized approaches with explanations.
-- Fix Issues: Typos, bugs, unclear instructions—anything that improves learning.
-- Enhance Docs: Better explanations, tips, or clarifications for beginners.
----
-## 🗣 Conduct
-
-Be respectful, helpful, and constructive. The goal is to make learning Python enjoyable and accessible.
-
----
-## ✅ PR Checklist
-
-- [ ] Files are in the correct folder  
-- [ ] Clear, incremental **file name**  
-- [ ] Docstring with **task + examples**  
-- [ ] Code is **readable** and **self-contained**  
-- [ ] Tested locally (simple run is fine)
 
 ---
 
