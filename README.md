@@ -37,15 +37,13 @@ It covers everything from **basics to advanced concepts**, helping you practice 
 
 ## 📂 Repository Structure
 
-   ```bash
-      │
-      ├── PYTHON_Problems/ 
-      ├── CONTRIBUTING.md # Contribution guidelines
-      ├── .gitignore
-      ├── License
-      └── README.md # This file
-
-
+```bash
+   │
+   ├── PYTHON_Problems/ 
+   ├── CONTRIBUTING.md # Contribution guidelines
+   ├── .gitignore
+   ├── License
+   └── README.md # This file
 ---
 
 ## 🛠 How to Use
