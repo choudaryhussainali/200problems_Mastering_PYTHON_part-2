@@ -16,7 +16,7 @@ This project exists to help learners practice Python effectively. Your ideas, ex
 
 ## 🧭 Exercise Guidelines
 
-* **Placement:** Put files in the correct level folder,
+* **Placement:** Create a New Branch and Add PROBLEMS in a FOLDER
 * **Naming:** Use a clear, incremental pattern:
 
   * `01_hello_world.py`
